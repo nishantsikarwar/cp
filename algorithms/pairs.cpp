@@ -1,4 +1,6 @@
 #include <bits/stdc++.h>
+#include <initializer_list>
+#include <vector>
 using namespace std;
 #define For(i,x,y) for (int i = x; i <= y; ++i)
 #define speed ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0);
@@ -7,7 +9,7 @@ using namespace std;
 #define vlong long long 
 #define ONLINE_JUDGE  freopen("input","r",stdin);freopen("output","w",std out);
 
-vector<pair <int,int>> pairs;
+vector<pair <int,int> > pairs;
 
 bool ok (int x, int y) {
     for(pair<int,int> p : pairs) {
