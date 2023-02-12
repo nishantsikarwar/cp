@@ -8,15 +8,15 @@ Created with a view to connecting people to information, this list below contain
 
 <!-- [What is competitive programming? - Quora](https://www.quora.com/What-is-competitive-programming-2) -->
 
-<!-- 
+<!--
 ## Contributing
 
 Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
-You can also contribute by sharing!  
+You can also contribute by sharing!
 Share the list with your classmates, your friends and everyone :)
 
-> By connecting more people to information,  
-> You, are doing not me, but everyone a HUGE favor!  
->  
+> By connecting more people to information,
+> You, are doing not me, but everyone a HUGE favor!
+>
 > I really hope that more people can benefit from this list :) -->

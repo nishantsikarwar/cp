@@ -1,6 +1,7 @@
-class Solution {
+class Solution
+{
 public:
-    void moveZeroes(vector<int>& nums) {
-        
+    void moveZeroes(vector<int> &nums)
+    {
     }
 };
