@@ -81,6 +81,7 @@
         "span": "cpp",
         "stack": "cpp",
         "ranges": "cpp",
-        "stacktrace": "cpp"
+        "stacktrace": "cpp",
+        "format": "cpp"
     }
 }

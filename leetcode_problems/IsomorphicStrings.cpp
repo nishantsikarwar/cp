@@ -1,11 +1,16 @@
+#include <unordered_map>
 class Solution {
 public:
+    #include <string>
+
     bool isIsomorphic(string s, string t) {
-        if(s.size() != t.size()) {
-            return false;
-        }
-        unordered_map<char, int> sToMap;
-        unordered_map<char, int> tToMap;
+ 
+
+                if(s.size() != t.size()) {
+                    return false;
+                }
+                std::unordered_map<char, int> sToMap;
+                std::unordered_map<char, int> tToMap;
 
        for(int i = 0 ; i < s.length(); i++) {
         char sChar = s[i];

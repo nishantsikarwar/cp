@@ -2,7 +2,9 @@ class Solution {
 public:
     bool isValid(string s) {
         
-        stack<char> stack;
+        #include <stack>
+
+        std::stack<char> stack;
 
         for(char c : s) {
             switch (c) {

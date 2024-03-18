@@ -1,5 +1,7 @@
 class Solution {
 public:
+    #include <string>
+
     bool isAnagram(string s, string t) {
         
    if (s.length() != t.length()) {

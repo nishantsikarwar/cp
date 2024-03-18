@@ -1,5 +1,12 @@
+    #include <vector>
+    #include <string> // Include the necessary header file for the string class
+#include <unordered_map>
+
+    using namespace std;
+
 class Solution {
 public:
+
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
 
     unordered_map<string, vector<string>> anagramMap;
